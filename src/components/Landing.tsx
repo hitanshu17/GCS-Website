@@ -65,7 +65,7 @@ export default function Landing() {
               </div>
             </div>
             <div className="relative flex justify-center lg:col-span-6">
-              <div className="relative w-full max-w-xl">
+              <div className="relative w-full max-w-xl overflow-hidden">
                 <div className="absolute -left-6 -top-6 h-24 w-24 rounded-3xl border border-dashed border-primary/40" />
                 <div className="absolute -bottom-8 -right-10 h-20 w-20 rounded-full bg-primary/10" />
                 <Image
